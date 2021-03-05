@@ -9,6 +9,10 @@ public class AbcDef {
         System.out.println("111111 = ");
     }
 
+    public void method2() {
+        System.out.println("adsadad = ");
+    }
+
     public void method1(){
         System.out.println("1 = " + 1);
     }
